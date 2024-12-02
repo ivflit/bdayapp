@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bdayapp/static/css/main.e3dbeb71.css",
-    "main.js": "/bdayapp/static/js/main.aa144ffb.js",
+    "main.js": "/bdayapp/static/js/main.54ae166d.js",
     "static/js/453.e9967f97.chunk.js": "/bdayapp/static/js/453.e9967f97.chunk.js",
     "index.html": "/bdayapp/index.html",
     "main.e3dbeb71.css.map": "/bdayapp/static/css/main.e3dbeb71.css.map",
-    "main.aa144ffb.js.map": "/bdayapp/static/js/main.aa144ffb.js.map",
+    "main.54ae166d.js.map": "/bdayapp/static/js/main.54ae166d.js.map",
     "453.e9967f97.chunk.js.map": "/bdayapp/static/js/453.e9967f97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3dbeb71.css",
-    "static/js/main.aa144ffb.js"
+    "static/js/main.54ae166d.js"
   ]
 }
